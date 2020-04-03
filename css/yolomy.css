@@ -1,7 +1,7 @@
 body {
 background-repeat: no-repeat;
 background-position: top;
-background-size: 1300px;
+background-size: 100vw;
 }
 
 .Yolomy {
@@ -9,19 +9,15 @@ background-size: 1300px;
   font-size: 60px;
   color: whitesmoke;
   float: left;
-  /* margin: 20px; */
-  /* margin-top: 20px; */
-  /* margin-left: 60px; */
 }
 
 .Right {
   font-family: sans-serif;
   font-size: 20px;
   float: right;
-  /* margin: 20px;*/
   margin-top: 15px;
-  /* margin-right: 60px; */
 }
+
 .Pages {
   color: whitesmoke;
 }
@@ -41,9 +37,6 @@ background-size: 1300px;
   font-size: 20px;
   color: lightgrey;
   text-align: center;
-  /* margin-top: 120px; */
-  /* margin-left: 20px; */
-  /* margin-right: 20px; */
 }
 
 .Dropdown {
@@ -61,18 +54,17 @@ background-size: 1300px;
   font-family: sans-serif;
   font-size:20px ;
   padding: 40px;
-  /* border-right: solid darkgrey;
-  border-left: solid darkgrey;
-  border-bottom: darkgrey;
- */
 }
+
 .Two {
   width: unset !important;
 }
+
 .Three {
   float: right;
   text-align: right;
 }
+
 .Four {
   Border: 3px solid #A99B76;
   border-bottom: 6px solid #A99B76;
@@ -84,15 +76,16 @@ background-size: 1300px;
 .Center_Image {
   text-align: center;
 }
+
 .Image_Change {
+  
   height: 200px;
 }
 .Price {
   float: right;
 }
 
-.Clothing_Items {
-  
+.Clothing_Items { 
   color: #AFA17F;
 }
 
@@ -100,6 +93,7 @@ h2{
   text-align: center;
   color: white;
 }
+
 .About {
   text-align: center;
   font-size: 20px;
@@ -118,6 +112,7 @@ h2{
   position: relative;
   bottom: 215px;
 }
+
 .Sale {
   text-align: center;
   font-size: 20px;
@@ -144,4 +139,8 @@ h2{
 
 .Eight {
   text-align: justify;
+}
+
+.About_Image {
+  width: 100vw;
 }
