@@ -1,0 +1,147 @@
+body {
+background-repeat: no-repeat;
+background-position: top;
+background-size: 1300px;
+}
+
+.Yolomy {
+  font-family: sans-serif;
+  font-size: 60px;
+  color: whitesmoke;
+  float: left;
+  /* margin: 20px; */
+  /* margin-top: 20px; */
+  /* margin-left: 60px; */
+}
+
+.Right {
+  font-family: sans-serif;
+  font-size: 20px;
+  float: right;
+  /* margin: 20px;*/
+  margin-top: 15px;
+  /* margin-right: 60px; */
+}
+.Pages {
+  color: whitesmoke;
+}
+
+.Center_Piece {
+  font-family: sans-serif;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.Mission {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: lightgrey;
+  text-align: center;
+  /* margin-top: 120px; */
+  /* margin-left: 20px; */
+  /* margin-right: 20px; */
+}
+
+.Dropdown {
+  text-align: center;
+  margin-top: 180px;
+}
+
+.Gender {
+  width: inherit;
+  background-color: #C6BFA4;
+  margin-top: 147px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 40px;
+  font-family: sans-serif;
+  font-size:20px ;
+  padding: 40px;
+  /* border-right: solid darkgrey;
+  border-left: solid darkgrey;
+  border-bottom: darkgrey;
+ */
+}
+.Two {
+  width: unset !important;
+}
+.Three {
+  float: right;
+  text-align: right;
+}
+.Four {
+  Border: 3px solid #A99B76;
+  border-bottom: 6px solid #A99B76;
+  border-top: 6px solid #A99B76;
+  background-color: whitesmoke;
+  margin-bottom: 10px;
+}
+
+.Center_Image {
+  text-align: center;
+}
+.Image_Change {
+  height: 200px;
+}
+.Price {
+  float: right;
+}
+
+.Clothing_Items {
+  
+  color: #AFA17F;
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+.About {
+  text-align: center;
+  font-size: 20px;
+  color: whitesmoke;
+}
+
+.Five {
+  position: relative;
+  bottom: 270px;
+  color: white;
+}
+
+.Six {
+  width: inherit;
+  background-color: #535154;
+  position: relative;
+  bottom: 215px;
+}
+.Sale {
+  text-align: center;
+  font-size: 20px;
+  color: whitesmoke;
+}
+
+.Seven {
+  width: inherit;
+  background-color: #414141;
+  position: relative;
+  bottom: 215px;
+}
+
+.heading_3 {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+
+.heading_3_Footer {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+.Eight {
+  text-align: justify;
+}

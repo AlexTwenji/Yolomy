@@ -1,0 +1,17 @@
+h1 {
+ text-align: center;
+}
+
+.images {
+  width: 250px;
+  height: 150px;
+}
+
+.price {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+h2 {
+  margin-top: 0px;
+}
